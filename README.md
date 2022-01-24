@@ -1,5 +1,7 @@
 Basic Rules Germany
+
 1G+
+
 | Requirement 1                                 |    Requirement 2                 |      Requirement 3          |
 | -------------------------------------- | ------------------- | -------------- |
 |basic immunization, 2x Vaccinations) | Booster-<br>Vaccination | Test (NAT/PCR) |
