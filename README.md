@@ -4,12 +4,12 @@ Basic Rules Germany
 
 | Requirement 1                                 |    Requirement 2                 |      Requirement 3          |
 | -------------------------------------- | ------------------- | -------------- |
-|basic immunization, 2x Vaccinations + 14 days) | Booster-<br>Vaccination | Test (PCR) |
-| Recovery                               | Booster-<br>Vaccination | Test (PCR) |
-|basic immunization, 2x Vaccinations + 14 days) | Recovery            | Test (PCR) |
-|basic immunization, 2x Vaccinations + 14 days) | Booster-<br>Vaccination | Test (RAT)     |
-| Recovery                               | Booster-<br>Vaccination | Test (RAT)     |
-|basic immunization, 2x Vaccinations + 14 days) | Recovery            | Test (RAT)     |
+|basic immunization, 2x Vaccinations + 14 days) | Booster-<br>Vaccination | Test PCR |
+| Recovery                               | Booster-<br>Vaccination | Test PCR |
+|basic immunization, 2x Vaccinations + 14 days) | Recovery            | Test PCR |
+|basic immunization, 2x Vaccinations + 14 days) | Booster-<br>Vaccination | Test RAT     |
+| Recovery                               | Booster-<br>Vaccination | Test RAT     |
+|basic immunization, 2x Vaccinations + 14 days) | Recovery            | Test RAT     |
 |                                        |                     |                |
 | 1G                                     |                     |                |
 |basic immunization, 2x Vaccinations + 14 days) | Booster-<br>Vaccination |                |
@@ -17,21 +17,19 @@ Basic Rules Germany
 |basic immunization, 2x Vaccinations + 14 days) | Recovery            |                |
 |                                        |                     |                |
 | 2g+                                    |                     |                |
-|basic immunization, 2x Vaccinations + 14 days) | Test (PCR)      |                |
-| Recovery                               | Test (PCR)      |                |
-|basic immunization, 2x Vaccinations + 14 days) | Booster-<br>Vaccination |                |
+|basic immunization, 2x Vaccinations + 14 days) | Test PCR      |                |
+| Recovery                               | Test PCR      |                |
 | Recovery                               | Booster-<br>Vaccination |                |
-|basic immunization, 2x Vaccinations + 14 days) | Recovery            |                |
 |                                        |                     |                |
 | 2G                                     |                     |                |
 |basic immunization, 2x Vaccinations + 14 days)  |                     |                |
 | Recovery                               |                     |                |
 |                                        |                     |                |
 | 3g+                                    |                     |                |
-| Test (PCR)                         |                     |                |
+| Test PCR                         |                     |                |
 |                                        |                     |                |
 | 3g                                     |                     |                |
-| Test (RAT)                             |                     |                |
+| Test RAT                             |                     |                |
 
 Federal States Adjustmens:
 
