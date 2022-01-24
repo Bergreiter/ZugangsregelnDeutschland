@@ -19,7 +19,6 @@ Basic Rules Germany
 | 2g+                                    |                     |                |
 |basic immunization, 2x Vaccinations + 14 days) | Test PCR      |                |
 | Recovery                               | Test PCR      |                |
-| Recovery                               | Booster-<br>Vaccination |                |
 |                                        |                     |                |
 | 2G                                     |                     |                |
 |basic immunization, 2x Vaccinations + 14 days)  |                     |                |
