@@ -40,8 +40,10 @@ Baden-Württemberg	BW	Baden-Württemberg
 
 
 Bayern (Freistaat)	BY	Bavaria (Free State)
+https://www.gesetze-bayern.de/Content/Document/BayIfSMV_15-G1
 
 Berlin	BE	Berlin
+https://www.berlin.de/corona/massnahmen/verordnung/
 
 Brandenburg	BB	Brandenburg
 
