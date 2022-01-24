@@ -4,9 +4,9 @@ Basic Rules Germany
 
 | Requirement 1                                 |    Requirement 2                 |      Requirement 3          |
 | -------------------------------------- | ------------------- | -------------- |
-|basic immunization, 2x Vaccinations) | Booster-<br>Vaccination | Test (NAT/PCR) |
-| Recovery                               | Booster-<br>Vaccination | Test (NAT/PCR) |
-|basic immunization, 2x Vaccinations) | Recovery            | Test (NAT/PCR) |
+|basic immunization, 2x Vaccinations) | Booster-<br>Vaccination | Test (PCR) |
+| Recovery                               | Booster-<br>Vaccination | Test (PCR) |
+|basic immunization, 2x Vaccinations) | Recovery            | Test (PCR) |
 |basic immunization, 2x Vaccinations) | Booster-<br>Vaccination | Test (RAT)     |
 | Recovery                               | Booster-<br>Vaccination | Test (RAT)     |
 |basic immunization, 2x Vaccinations) | Recovery            | Test (RAT)     |
@@ -17,8 +17,8 @@ Basic Rules Germany
 |basic immunization, 2x Vaccinations) | Recovery            |                |
 |                                        |                     |                |
 | 2g+                                    |                     |                |
-|basic immunization, 2x Vaccinations) | Test (NAT/PCR)      |                |
-| Recovery                               | Test (NAT/PCR)      |                |
+|basic immunization, 2x Vaccinations) | Test (PCR)      |                |
+| Recovery                               | Test (PCR)      |                |
 |basic immunization, 2x Vaccinations) | Booster-<br>Vaccination |                |
 | Recovery                               | Booster-<br>Vaccination |                |
 |basic immunization, 2x Vaccinations) | Recovery            |                |
@@ -28,7 +28,7 @@ Basic Rules Germany
 | Recovery                               |                     |                |
 |                                        |                     |                |
 | 3g+                                    |                     |                |
-| Test (NAT/PCR)                         |                     |                |
+| Test (PCR)                         |                     |                |
 |                                        |                     |                |
 | 3g                                     |                     |                |
 | Test (RAT)                             |                     |                |
