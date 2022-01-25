@@ -1,6 +1,6 @@
 Basic Rules Germany
 
-1G+
+Boostered+
 
 | Requirement 1                                 |    Requirement 2                 |      Requirement 3          |
 | -------------------------------------- | ------------------- | -------------- |
@@ -11,7 +11,7 @@ Basic Rules Germany
 | Recovery                               | Booster-<br>Vaccination | Test RAT     |
 |basic immunization, 2x Vaccinations + 14 days) | Recovery            | Test RAT     |
 |                                        |                     |                |
-| 1G                                     |                     |                |
+| Boostered                                    |                     |                |
 |basic immunization, 2x Vaccinations + 14 days) | Booster-<br>Vaccination |                |
 | Recovery                               | Booster-<br>Vaccination |                |
 |basic immunization, 2x Vaccinations + 14 days) | Recovery            |                |
